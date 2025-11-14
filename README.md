@@ -17,8 +17,8 @@ A project for crawling, monitoring, and serving data from a sample e-commerce we
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/ISLOWIsmaeli/ceanapse-donation-platform.git
-   cd ceanapse-donation-platform
+   git clone https://github.com/ISLOWIsmaeli/filerskeepers-crawler-assignment
+   cd filerskeepers-crawler-assignment
 ```
 
 2. **Create and activate the virtual environment**
